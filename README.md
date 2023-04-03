@@ -17,6 +17,6 @@ Here is the list of challenges we are solving and the student who solves.
 
 ## Notes about the first and second pull request
 1. In the first pull request, add your name and challenge to this file as I did under "Who is doing what?" section - this enables others to see which challenge is already taken
-2. In the second pull request, open a directory under (writeups/web-exploitation)[/writeups/web-exploitation] with the name of your challenge
-3. In the second pull request put a README.md into the above directory where you explain your solution (see my example (here)[/writeups/20aHEAD]), if you used code like python, add it to the same directory
+2. In the second pull request, open a directory under [writeups/web-exploitation](/writeups/web-exploitation) with the name of your challenge
+3. In the second pull request put a README.md into the above directory where you explain your solution (see my example [here](/writeups/20aHEAD)), if you used code like python, add it to the same directory
 4. Don't use docx format, go according to the example
