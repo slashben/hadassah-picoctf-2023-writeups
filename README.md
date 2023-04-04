@@ -10,6 +10,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [login](writeups/web-exploitation/login/) - Yehuda Heller
 * [It is my Birthday] - Avigail Hagay
 * [Inspect HTML](writeups/web-exploitation/Inspect%20aHTML/) - Sari Erentreu
+* [Some Assembly Required 2](writeups/web-exploitation/Some Assembly Required 2/) - Elad Menahem
 
 # For students
 
