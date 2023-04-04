@@ -9,6 +9,8 @@ Here is the list of challenges we are solving and the student who solves.
 * [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
 * [login](writeups/web-exploitation/login/) - Yehuda Heller
 * [Search source]- Sami Maron
+* [It is my Birthday] - Avigail Hagay
+* [Inspect HTML](writeups/web-exploitation/Inspect%20aHTML/) - Sari Erentreu
 
 # For students
 
