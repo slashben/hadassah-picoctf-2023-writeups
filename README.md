@@ -8,7 +8,7 @@ Here is the list of challenges we are solving and the student who solves.
 
 * [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
 * [login](writeups/web-exploitation/login/) - Yehuda Heller
-* [Search source](writeups/web-exploitation/Search source/)- Sami Maron
+* [Search source]- Sami Maron
 
 # For students
 
