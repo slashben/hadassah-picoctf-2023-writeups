@@ -8,11 +8,13 @@ Here is the list of challenges we are solving and the student who solves.
 
 * [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
 * [login](writeups/web-exploitation/login/) - Yehuda Heller
-* [Search source]- Sami Maron
+* [Search source](/hadassah-picoctf-2023-writeups/tree/main/Search%20source)- Sami Maron
 * [dont-use-client-side](writeups/web-exploitation/dont-use-client-side/) - Avigail Hagay
 * [Inspect HTML](writeups/web-exploitation/Inspect%20aHTML/) - Sari Erentreu
 * [Some Assembly Required 2](writeups/web-exploitation/Some Assembly Required 2/) - Elad Menahem
 * [MatchTheRegex](writeups/web-exploitation/MatchTheRegex/) - Michael Basov
+* [logon] - Idan Cohen
+* [where are the robots](writeups/web-exploitation/where-are-the-robots/) - Micha Briskman
 
 # For students
 
