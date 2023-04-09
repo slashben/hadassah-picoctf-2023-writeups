@@ -12,6 +12,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [dont-use-client-side](writeups/web-exploitation/dont-use-client-side/) - Avigail Hagay
 * [Inspect HTML](writeups/web-exploitation/Inspect%20aHTML/) - Sari Erentreu
 * [Some Assembly Required 2](writeups/web-exploitation/Some Assembly Required 2/) - Elad Menahem
+* [logon] - Idan Cohen
 * [where are the robots](writeups/web-exploitation/where-are-the-robots/) - Micha Briskman
 
 # For students
