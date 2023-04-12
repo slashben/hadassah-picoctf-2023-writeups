@@ -15,6 +15,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [MatchTheRegex](writeups/web-exploitation/MatchTheRegex/) - Michael Basov
 * [logon] - Idan Cohen
 * [where are the robots](writeups/web-exploitation/where-are-the-robots/) - Micha Briskman
+* [It is my Birthday] (writeups/web-exploitation/It-is-my-Birthday/) - Racheli Benchamo
 
 # For students
 
