@@ -16,6 +16,8 @@ Here is the list of challenges we are solving and the student who solves.
 * [logon] - Idan Cohen
 * [where are the robots](writeups/web-exploitation/where-are-the-robots/) - Micha Briskman
 * [Includes] - Abedallah Joualny
+* [Who are you?](writeups/web-exploitation/who-are-you/) - Shlomo Gulayev
+* [It is my Birthday] (writeups/web-exploitation/It-is-my-Birthday/) - Racheli Benchamo
 
 # For students
 
