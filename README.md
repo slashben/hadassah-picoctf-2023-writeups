@@ -15,6 +15,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [MatchTheRegex](writeups/web-exploitation/MatchTheRegex/) - Michael Basov
 * [logon] - Idan Cohen
 * [where are the robots](writeups/web-exploitation/where-are-the-robots/) - Micha Briskman
+* [local authority](writeups/web-exploitation/local-authority/) - Doron Ben Simon
 * [picobrowser](writeups/web-exploitation/picobrowser/) - Elie Taklifi
 * [Local Authority](writeups/web-exploitation/Local-Authority/) - Roje Habib
 * [Includes] - Abedallah Joualny
