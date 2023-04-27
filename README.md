@@ -24,6 +24,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [SOAP] - Pnina Yonayov
 * [caas] - Moshe Namdar
 * [findme] - Yooval Yosef
+* [bloat.py] - Erez Kalifa
 
 # For students
 
