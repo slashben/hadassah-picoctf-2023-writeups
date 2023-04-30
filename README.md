@@ -28,7 +28,7 @@ Here is the list of challenges we are solving and the student who solves.
 ## Cryptography 
 * [Vigenere] - Racheli Benchamo
 * [Pixelated] - Sari Erentreu
-
+* [substitution0] - Idan Cohen
 
 # For students
 
