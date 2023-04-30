@@ -1,56 +1,34 @@
-<h1 style="font-size: 48px;">"dont-use-client-side" Challenge README</h1>
+<h1 style="font-size: 48px;">"basic-mod1" Challenge README</h1>
 <h2 style="font-size: 20px;">Challenge Description</h2>
+The "Mod 37" challenge is a cryptography challenge that requires the user to decrypt a message using a given decryption scheme.
+The challenge provides a message encoded as a sequence of numbers, and instructions on how to map each number to a character set.
+The user needs to implement the decryption algorithm and use it to recover the original message.
 
-The "dont-use-client-side" challenge is a web-based challenge that requires the user to break into a secure portal by finding the correct password. 
-The web page contains a form that prompts the user to enter a password and click on a button to verify the password.
-The password verification logic is implemented in a client-side JavaScript function that runs in the user's browser.
-
-<img src="./screenshots/photo_2023-04-04_12-23-54.jpg">
-
+<img src="./screenshots/mod_37_challenge.png">
 <h2 style="font-size: 20px;">Hint</h2>
-never trust the client.
-
+1. Do you know what mod 37 means?
+2. mod 37 means modulo 37. It gives the remainder of a number after being divided by 37.
 <h2 style="font-size: 20px;">Challenge Goals</h2>
-The main goal of this challenge is to demonstrate the dangers of client-side password verification and highlight the importance of server-side password verification. 
-The challenge aims to educate users about the risks of relying on client-side verification for secure password handling.
-
+The main goal of this challenge is to demonstrate the importance of understanding basic cryptographic principles and to highlight the risks of relying on weak encryption schemes. 
+The challenge aims to educate users about the importance of using strong encryption algorithms and key management practices to protect sensitive information.
 <h2 style="font-size: 20px;">Challenge Instructions</h2>
 Open the challenge website in a web browser.
-Enter a password and click on the "Verify Password" button.
-If the entered password is correct, an alert will be displayed saying "Password Verified".
-Challenge Solution
-The JavaScript function that verifies the password is flawed and insecure, and can be easily bypassed. 
-The function checks the password entered by the user by comparing substrings of the password to hardcoded values. 
-An attacker can easily extract these hardcoded values from the JavaScript code using the browser's developer tools and construct the correct password.
+Read the challenge description and the provided message.
+Implement the decryption algorithm using the instructions provided.
+Decrypt the message and wrap it in the picoCTF flag format (i.e., picoCTF{decrypted_message}).
+Submit the flag to the challenge website to complete the challenge.
+<h2 style="font-size: 20px;">Challenge Solution</h2>
+The message provided in the challenge is encoded using a simple modulo arithmetic scheme. 
+Each number in the message needs to be divided by 37, and the resulting remainder needs to be mapped to a character set as described in the challenge instructions. 
+The decryption algorithm can be easily implemented in any programming language, here's my solution in Python:
 
 
+When you run this code, the output should give us the flag.
 
-The correct password = flag is constructed by concatenating the substrings in the correct order, which are:
+So the decrypted message is "R0UND_N_R0UND_B6B25531".
 
-"pico"
-
-"CTF{"
-
-"lien"
-
-"ts_p"
-
-"lz_7"
-
-"no_c"
-
-"723c"
-
-"e}"
-
-<img src="./screenshots/photo_2023-04-04_12-24-11.jpg">
-
-<h3 style="font-size: 15px;">The flag: picoCTF{no_clients_plz_7723ce}</h3>
-
-
-And we broke this super secure portal! :smile:
+<h3 style="font-size: 15px;">The flag: picoCTF{R0UND_N_R0UND_B6B25531}</h3>
 <h2 style="font-size: 20px;">Conclusion</h2>
-In real-world scenarios, client-side password verification is a bad practice and should be avoided. 
-Passwords should be verified on the server-side using a secure and robust password verification mechanism. 
-The "dont-use-client-side" challenge is a valuable learning tool for users to understand the risks and limitations of client-side password verification.
-
+In real-world scenarios, using weak encryption schemes can compromise the security of sensitive information. 
+It is essential to understand basic cryptographic principles and use strong encryption algorithms and key management practices to protect sensitive information. 
+The "Mod 37" challenge is a valuable learning tool for users to understand the risks and limitations of weak encryption schemes and to encourage the use of strong encryption practices.
