@@ -6,6 +6,7 @@ We, members of the 2023 class of Information Security at Hadassah college solvin
 
 Here is the list of challenges we are solving and the student who solves.
 
+## Web exploitation
 * [GET aHEAD](writeups/web-exploitation/GET%20aHEAD/) - Benyamin Hirschberg
 * [login](writeups/web-exploitation/login/) - Yehuda Heller
 * [Search source](/hadassah-picoctf-2023-writeups/tree/main/Search%20source)- Sami Maron
@@ -24,7 +25,10 @@ Here is the list of challenges we are solving and the student who solves.
 * [SOAP] - Pnina Yonayov
 * [caas] - Moshe Namdar
 * [findme] - Yooval Yosef
+## Cryptography 
 * [Vigenere] - Racheli Benchamo
+* [Pixelated] - Sari Erentreu
+
 
 # For students
 
