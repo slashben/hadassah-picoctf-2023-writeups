@@ -4,9 +4,9 @@ The "Mod 37" challenge is a cryptography challenge that requires the user to dec
 The challenge provides a message encoded as a sequence of numbers, and instructions on how to map each number to a character set.
 The user needs to implement the decryption algorithm and use it to recover the original message.
 
-<img src="./screenshots/mod_37_challenge.png">
+<br><img src="./screenshots/photo_2023-04-30_15-30-58.jpg">
 <h2 style="font-size: 20px;">Hint</h2>
-1. Do you know what mod 37 means?
+1. Do you know what mod 37 means?<br>
 2. mod 37 means modulo 37. It gives the remainder of a number after being divided by 37.
 <h2 style="font-size: 20px;">Challenge Goals</h2>
 The main goal of this challenge is to demonstrate the importance of understanding basic cryptographic principles and to highlight the risks of relying on weak encryption schemes. 
