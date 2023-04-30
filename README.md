@@ -29,6 +29,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Vigenere] - Racheli Benchamo
 * [Pixelated] - Sari Erentreu
 * [substitution0] - Idan Cohen
+* [rotation] - Moshe Namdar
 
 # For students
 
