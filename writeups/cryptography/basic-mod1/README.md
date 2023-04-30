@@ -27,8 +27,8 @@ The decryption algorithm can be easily implemented in any programming language, 
 After running the code I got that the decrypted message is "R0UND_N_R0UND_B6B25531". Therefore i got the flag! :smile:
 
 <h3 style="font-size: 15px;">The flag: picoCTF{R0UND_N_R0UND_B6B25531}</h3>
-And that's it, I'm done! :tada::trophy:
-<br><img src="./screenshots/photo_2023-04-30_15-31-02.jpg">
+And that's it, I'm done! :tada::trophy: <br>
+<br><img src="./screenshots/photo_2023-04-30_15-31-10.jpg">
 <h2 style="font-size: 20px;">Conclusion</h2>
 In real-world scenarios, using weak encryption schemes can compromise the security of sensitive information. 
 It is essential to understand basic cryptographic principles and use strong encryption algorithms and key management practices to protect sensitive information. 
