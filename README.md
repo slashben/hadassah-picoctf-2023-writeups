@@ -35,6 +35,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [substitution2] - Yehuda Heller
 * [13] - Yooval Yosef 
 * [basic-mod2](writeups/Cryptography/basic-mod2/) - Avigail Hagay
+* [HideToSee] - Pnina Yonayov
 
 # For students
 
