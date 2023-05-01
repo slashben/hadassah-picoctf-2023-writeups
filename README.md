@@ -30,6 +30,11 @@ Here is the list of challenges we are solving and the student who solves.
 * [Pixelated] - Sari Erentreu
 * [substitution0] - Idan Cohen
 * [basic-mod1](writeups/Cryptography/basic-mod1/) - Avigail Hagay
+* [caesar] - Micha Briskman
+* [rotation] - Moshe Namdar
+* [basic-mod1] - Elad Menahem
+* [substitution2] - Yehuda Heller
+* [13] - Yooval Yosef 
 
 # For students
 
