@@ -21,6 +21,7 @@ The output of the code:
 ![](img/screenshot3.png)
 <br/><br/>
 I have searched in the output the most logical option of the key, and the key was:
+## Flag
 'picoCTF{crossingtherubiconvfhsjkou}'
 
 ![](img/screenshot4.png)
