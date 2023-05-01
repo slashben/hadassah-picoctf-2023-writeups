@@ -1,6 +1,6 @@
 # basic-mod1
 
-This is the write-up for the challenge "GET aHEAD" challenge in PicoCTF
+This is the write-up for the challenge "basic-mod1" challenge in PicoCTF
 
 # The challenge
 
