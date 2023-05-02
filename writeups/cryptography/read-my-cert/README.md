@@ -1,32 +1,31 @@
-# where are the robots
-This is the write-up for the challenge "where the robots" challenge in PicoCTF
+# Read My Cert
+This is the write-up for the challenge "ReadMyCert" challenge in PicoCTF
 
 #The challenge
-Can you find the robots? https://jupiter.challenges.picoctf.org/problem/60915/ (link) or http://jupiter.challenges.picoctf.org:60915
+https://play.picoctf.org/practice/challenge/367?category=2&page=3
 
-![](img/screenshot1.png)
+![](images/screenshot1.jpeg)
 
 ##Hints
-1. What part of the website could tell you where the creator doesn't want you to look?
+Download the certificate signing request and try to read it.
 
-## Initial look
-The above link brings you to a basic Html page where it says welocme where are the robots?
-![](img/screenshot3.png)
+Started by downloading the CSR file in the link they gave.<br/>
+![](images/screenshot2.jpeg)
 
-I have looked at the hint.
+Opened the file "readmycert.csr" using Notepad++.<br/>
+![](images/screenshot3.jpeg)
 
-First I started looking for hints in the page source, but I found nothing.<br/>
-Then, i looked in sources(html and css) that are in inspect element, but i didnt find anything again.<br/>
+Searched on google how to decode a CSR certificate and found a site called SSL-Shopper (https://www.sslshopper.com/csr-decoder.html), that has a CSR Decoder.<br/>
+![](images/screenshot4.jpeg)
 
-I used the hint and the answer is: robots dont want you to look in the robots.txt file.<br/>
-Traditionally search engines like google use webcrawler, they pull everything that is publicly availebale<br/>
-in the index page. However somethings you may not want to be indexed. I appended robots.txt and it showed me<br/>
-the following format:<br/>
-User-agent: *<br/>
-Disallow: /8028f.html
-<br/><br/>
-I appended the /8028f.html to the main page and i found the key.<br/>
-![](img/screenshot2.png)
-<br/>
-The flag is: 'picoCTF{ca1cu1at1ng_Mach1n3s_8028f}'
+Pasted the contents of the CSR (from Notepad++), and received the flag "picoCTF{read_mycert_3aa80090}".<br/>
+![](images/screenshot5.jpeg)
+
+Copied the flag and pasted in PicoCTF task and submitted the flag.<br/>
+![](images/screenshot6.jpeg)
+
+Received a message indicating I earned 100 points! :).<br/>
+![](images/screenshot7.jpeg)
+
+And this is the end of the task.<br/>
 
