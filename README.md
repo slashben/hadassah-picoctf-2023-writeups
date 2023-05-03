@@ -37,6 +37,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [basic-mod2](writeups/Cryptography/basic-mod2/) - Avigail Hagay
 * [HideToSee] - Pnina Yonayov
 * [morse-code] - Michael Basov
+* [ReadMyCert] - Shlomo Gulayev
 
 # For students
 
