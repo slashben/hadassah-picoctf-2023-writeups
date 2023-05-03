@@ -38,6 +38,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [HideToSee] - Pnina Yonayov
 * [morse-code] - Michael Basov
 * [ReadMyCert] - Shlomo Gulayev
+* [easy1] - Doron Ben Simon
 
 # For students
 
