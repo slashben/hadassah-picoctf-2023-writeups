@@ -29,13 +29,14 @@ Here is the list of challenges we are solving and the student who solves.
 * [Vigenere] - Racheli Benchamo
 * [Pixelated] - Sari Erentreu
 * [substitution0] - Idan Cohen
-* [caesar] - Micha Briskman
+* [caesar](writeups/Cryptography/caesar/) - Micha Briskman
 * [rotation] - Moshe Namdar
 * [basic-mod1] - Elad Menahem
 * [substitution2] - Yehuda Heller
 * [13] - Yooval Yosef 
 * [basic-mod2](writeups/Cryptography/basic-mod2/) - Avigail Hagay
 * [HideToSee] - Pnina Yonayov
+* [morse-code] - Michael Basov
 * [ReadMyCert] - Shlomo Gulayev
 
 # For students
