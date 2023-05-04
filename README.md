@@ -21,12 +21,12 @@ Here is the list of challenges we are solving and the student who solves.
 * [Local Authority](writeups/web-exploitation/Local-Authority/) - Roje Habib
 * [Includes] - Abedallah Joualny
 * [Who are you?](writeups/web-exploitation/who-are-you/) - Shlomo Gulayev
-* [It is my Birthday] (writeups/web-exploitation/It-is-my-Birthday/) - Racheli Benchamo
+* [It is my Birthday] (writeups/web-exploitation/It-is_my-Birthday/) - Racheli Benchamo
 * [SOAP] - Pnina Yonayov
 * [caas] - Moshe Namdar
 * [findme] - Yooval Yosef
 ## Cryptography 
-* [Vigenere] - Racheli Benchamo
+* [Vigenere](writeups/Cryptography/Vigenere/) - Racheli Benchamo
 * [Pixelated] - Sari Erentreu
 * [substitution0] - Idan Cohen
 * [caesar](writeups/cryptography/caesar/) - Micha Briskman
