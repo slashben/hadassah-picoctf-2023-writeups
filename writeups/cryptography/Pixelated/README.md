@@ -20,10 +20,12 @@ this is the images:
 Add the two images together to get the flag. 
 This approach can be seen in this code running:
 
-![](img/code_result.py)
+![](img/code_solution.py)
 
 
 The flag is:
+
+
 ![](img/result.png)
 
 
