@@ -18,9 +18,7 @@ this is the images:
 
 # Solution
 Add the two images together to get the flag. 
-This approach can be seen in this code running:
-
-![](code_solution.py)
+This approach can be seen in this code running in the file: code_solution.py
 
 
 The flag is:
