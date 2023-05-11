@@ -3,7 +3,7 @@
 This is the write-up for the "transposition-trial" challenge in PicoCTF.
 
 ## The Challenge
-![Challenge Image](img/challenge.jpg)
+![Challenge Image](images/challenge.jpg)
 
 ## Hints
 - Split the message up into blocks of 3 and see how the first block is scrambled.
