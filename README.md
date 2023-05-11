@@ -39,8 +39,8 @@ Here is the list of challenges we are solving and the student who solves.
 * [morse-code] - Michael Basov
 * [ReadMyCert] - Shlomo Gulayev
 * [easy1] - Doron Ben Simon
-*[Play Nice](writeups/cryptography/Play_Nice/) - Sami Maron
-*Extraordinary-Max dunkel.
+* [Play Nice](writeups/cryptography/Play_Nice/) - Sami Maron
+* Extraordinary-Max dunkel.
 
 # For students
 
