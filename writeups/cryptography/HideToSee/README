@@ -1,1 +1,39 @@
+<h1 style="font-size: 36px;">HideToSee</h1>
+This is the write-up for the challenge "SOAP" challenge in PicoCTF
+<h1>The challenge</h1>
+<h2 style="font-size: 20px;">Description</h2>
 
+How about some hide and seek heh?
+Look at this image here.
+
+<img src="./img/1.png">
+<img src="./img/2.png">
+<h2 style="font-size: 20px;">Hint</h2>
+Download the image and try to extract it.
+
+<h1>How to solve it</h1>
+After 
+</br>
+</br>
+<img src="./img/2.png">
+
+I attempted to decode the hidden message within the photo using a Steganography Online tool. However, the resulting message was not clear or easily decipherable.
+</br>
+</br>
+<img src="./img/3.png">
+<img src="./img/4.png">
+
+
+To further investigate, I then tried a different tool called Steganographic Decoder and uploaded the same image.
+<img src="./img/5.png">
+
+<img src="./img/6.png">
+After successfully decoding the hidden message using a steganographic decoder, I obtained the flag. However, the flag was encrypted, so I proceeded to decrypt it using the Cipher Chef website with the Atbash Cipher. 
+</br>
+</br>
+<img src="./img/7.png">
+
+</br>
+The flag is: picoCTF{atbash_crack_1f84d779}
+</br>
+:))
