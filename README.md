@@ -41,6 +41,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [easy1] - Doron Ben Simon
 * [Play Nice](writeups/cryptography/Play_Nice/) - Sami Maron
 * Extraordinary-Max dunkel.
+* [transposition-trial] - Avi Elo
 
 # For students
 
