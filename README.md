@@ -42,6 +42,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Play Nice](writeups/cryptography/Play_Nice/) - Sami Maron
 * [credstuff](writeups/cryptography/credstuff/) - Abedallah 
 * Extraordinary-Max dunkel.
+* [transposition-trial](writeups/cryptography/transposition-trial/) - Roje Habib
 
 # For students
 
