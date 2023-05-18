@@ -43,6 +43,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [credstuff](writeups/cryptography/credstuff/) - Abedallah 
 * Extraordinary-Max dunkel.
 * [transposition-trial](writeups/cryptography/transposition-trial/) - Roje Habib
+* Compress and Attack - Tal abargel
 
 # For students
 
