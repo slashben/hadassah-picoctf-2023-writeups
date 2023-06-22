@@ -25,7 +25,9 @@ Here is the list of challenges we are solving and the student who solves.
 * [SOAP] - Pnina Yonayov
 * [caas] - Moshe Namdar
 * [findme] - Yooval Yosef
+
 ## Cryptography 
+
 * [Vigenere](writeups/Cryptography/Vigenere/) - Racheli Benchamo
 * [Pixelated] - Sari Erentreu
 * [substitution0] - Idan Cohen
@@ -45,7 +47,11 @@ Here is the list of challenges we are solving and the student who solves.
 * [transposition-trial](writeups/cryptography/transposition-trial/) - Roje Habib
 
 ## Forensics 
+
 * [File types] - Idan Cohen
+* [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
+* [what's a net cat?] - Yooval Yosef
+
 # For students
 
 1. Choose the challenge you want to solve [here](https://play.picoctf.org/practice?category=1&page=1), **note it needs to be at least for 100 points and it needs to be a challenge others are not working on**
