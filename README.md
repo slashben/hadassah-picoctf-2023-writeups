@@ -44,6 +44,8 @@ Here is the list of challenges we are solving and the student who solves.
 * Extraordinary-Max dunkel.
 * [transposition-trial](writeups/cryptography/transposition-trial/) - Roje Habib
 
+## Forensics
+* [hideme](writeups/Forensics/hideme/) - Avigail Hagay
 # For students
 
 1. Choose the challenge you want to solve [here](https://play.picoctf.org/practice?category=1&page=1), **note it needs to be at least for 100 points and it needs to be a challenge others are not working on**
