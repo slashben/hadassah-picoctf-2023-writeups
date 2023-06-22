@@ -40,7 +40,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [ReadMyCert] - Shlomo Gulayev
 * [easy1] - Doron Ben Simon
 ## Forensics
-[Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
+* [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
 # For students
 
 1. Choose the challenge you want to solve [here](https://play.picoctf.org/practice?category=1&page=1), **note it needs to be at least for 100 points and it needs to be a challenge others are not working on**
