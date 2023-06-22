@@ -52,6 +52,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
 * [what's a net cat?] - Yooval Yosef
 * [Enhance] Racheli Benchamo
+* [Redaction gone wrong]- yooval yosef
 * 
 # For students
 
