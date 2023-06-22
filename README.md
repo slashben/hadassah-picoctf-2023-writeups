@@ -51,6 +51,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [File types] - Idan Cohen
 * [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
 * [what's a net cat?] - Yooval Yosef
+* [Redaction gone wrong]- yooval yosef
 * [Enhance] Racheli Benchamo
 * [hideme](writeups/Forensics/hideme/) - Avigail Hagay
 
