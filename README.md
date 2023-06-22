@@ -54,6 +54,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Redaction gone wrong]- yooval yosef
 * [Enhance] Racheli Benchamo
 * [hideme](writeups/Forensics/hideme/) - Avigail Hagay
+* [who is it](writeups/Forensics/whoIsIt/) - Micahel Basov
 
 # For students
 
