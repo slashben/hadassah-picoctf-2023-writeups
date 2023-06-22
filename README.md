@@ -25,7 +25,9 @@ Here is the list of challenges we are solving and the student who solves.
 * [SOAP] - Pnina Yonayov
 * [caas] - Moshe Namdar
 * [findme] - Yooval Yosef
+
 ## Cryptography 
+
 * [Vigenere](writeups/Cryptography/Vigenere/) - Racheli Benchamo
 * [Pixelated] - Sari Erentreu
 * [substitution0] - Idan Cohen
@@ -44,7 +46,9 @@ Here is the list of challenges we are solving and the student who solves.
 * Extraordinary-Max dunkel.
 * [transposition-trial](writeups/cryptography/transposition-trial/) - Roje Habib
 
-## Forensics
+## Forensics 
+
+* [File types] - Idan Cohen
 * [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
 * [what's a net cat?] - Yooval Yosef
 
