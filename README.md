@@ -21,12 +21,12 @@ Here is the list of challenges we are solving and the student who solves.
 * [Local Authority](writeups/web-exploitation/Local-Authority/) - Roje Habib
 * [Includes] - Abedallah Joualny
 * [Who are you?](writeups/web-exploitation/who-are-you/) - Shlomo Gulayev
-* [It is my Birthday] (writeups/web-exploitation/It-is-my-Birthday/) - Racheli Benchamo
+* [It is my Birthday] (writeups/web-exploitation/It-is_my-Birthday/) - Racheli Benchamo
 * [SOAP] - Pnina Yonayov
 * [caas] - Moshe Namdar
 * [findme] - Yooval Yosef
 ## Cryptography 
-* [Vigenere] - Racheli Benchamo
+* [Vigenere](writeups/Cryptography/Vigenere/) - Racheli Benchamo
 * [Pixelated] - Sari Erentreu
 * [substitution0] - Idan Cohen
 * [caesar](writeups/cryptography/caesar/) - Micha Briskman
@@ -34,13 +34,20 @@ Here is the list of challenges we are solving and the student who solves.
 * [basic-mod1] - Elad Menahem
 * [substitution2] - Yehuda Heller
 * [13] - Yooval Yosef 
-* [basic-mod2](writeups/Cryptography/basic-mod2/) - Avigail Hagay
+* [basic-mod2](writeups/cryptography/basic-mod2/) - Avigail Hagay
 * [HideToSee] - Pnina Yonayov
 * [morse-code] - Michael Basov
 * [ReadMyCert] - Shlomo Gulayev
 * [easy1] - Doron Ben Simon
+* [Play Nice](writeups/cryptography/Play_Nice/) - Sami Maron
+* [credstuff](writeups/cryptography/credstuff/) - Abedallah 
+* Extraordinary-Max dunkel.
+* [transposition-trial](writeups/cryptography/transposition-trial/) - Roje Habib
+
 ## Forensics
 * [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
+* [what's a net cat?] - Yooval Yosef
+
 # For students
 
 1. Choose the challenge you want to solve [here](https://play.picoctf.org/practice?category=1&page=1), **note it needs to be at least for 100 points and it needs to be a challenge others are not working on**
