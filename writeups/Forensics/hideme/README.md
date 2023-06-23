@@ -15,6 +15,9 @@ Find the flag hidden within the image file.
 
 <br><img src="./screenshots/photo_5814644291920838368_w.jpg">
 
+#### The image:
+<br><img src="./screenshots/flag.png">
+
 <h2 style="font-size: 20px;">Hint :bulb:</h2>
 None.😢
 
