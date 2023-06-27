@@ -5,7 +5,7 @@ This is the write-up for the challenge "Sleuthkit Intro" challenge in PicoCTF
 Download the disk image and use mmls on it to find the size of the Linux partition. Connect to the remote checker service to check your answer and get the flag.
 
 success it image:
-![](img/3.png)
+![](img/win-screen.png)
 
 ##Hints
 (None)
