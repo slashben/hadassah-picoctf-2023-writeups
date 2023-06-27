@@ -60,6 +60,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [so meta] - Moshe Namdar
 * [PcapPoisoning](writeups/Forensics/PcapPoisoning/) - Sari Erentreu
 * [extensions](writeups/Forensics/extentions) - Doron Ben Simon
+* [Disk, disk, sleuth!] - Pnina yonayov
 
 # For students
 
