@@ -55,6 +55,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Enhance] Racheli Benchamo
 * [hideme](writeups/Forensics/hideme/) - Avigail Hagay
 * [who is it](writeups/Forensics/whoIsIt/) - Micahel Basov
+* [Packets Primer] - Elad Menahem
 
 # For students
 
