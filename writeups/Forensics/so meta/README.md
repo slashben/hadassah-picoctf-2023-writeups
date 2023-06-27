@@ -6,11 +6,12 @@ https://play.picoctf.org/practice/challenge/19?category=4&page=2
 
 # Description
 Find the flag being held on this server to get ahead of the competition https://jupiter.challenges.picoctf.org/static/916b07b4c87062c165ace1d3d31ef655/pico_img.png
+
 picture of done:
 ![](img/finish.jpg)
 
 # Hints
-1.What does meta mean in the context of files?
+1.What does meta mean in the context of files? 
 2.Ever heard of metadata?
 
 # Initial look
@@ -22,7 +23,7 @@ I wrote the command 'findstr "pico" pico_img.png', the command actually searches
 (a word found in the flag I'm looking for) inside the image.
 After I wrote the command, the flag was printed in the command prompt.
 
-![](img/key.jpg)
+![](img/key.png)
 
 
 The flag is: picoCTF{s0_m3ta_d8944929}
