@@ -56,6 +56,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [hideme](writeups/Forensics/hideme/) - Avigail Hagay
 * [who is it](writeups/Forensics/whoIsIt/) - Micahel Basov
 * [Packets Primer] - Elad Menahem
+* [Sleuthkit Intro] - Yehuda Heller
 
 # For students
 
