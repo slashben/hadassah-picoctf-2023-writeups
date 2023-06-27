@@ -59,6 +59,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Sleuthkit Intro] - Yehuda Heller
 * [so meta] - Moshe Namdar
 * [PcapPoisoning](writeups/Forensics/PcapPoisoning/) - Sari Erentreu
+* [extensions](writeups/Forensics/extentions) - Doron Ben Simon
 
 # For students
 
