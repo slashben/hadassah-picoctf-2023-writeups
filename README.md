@@ -58,6 +58,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Packets Primer] - Elad Menahem
 * [Sleuthkit Intro] - Yehuda Heller
 * [so meta] - Moshe Namdar
+* [PcapPoisoning](writeups/Forensics/PcapPoisoning/) - Sari Erentreu
 
 # For students
 
