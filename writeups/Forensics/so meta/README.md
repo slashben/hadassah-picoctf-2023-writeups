@@ -21,6 +21,7 @@ I downloaded the image to the computer, opened the command prompt in the same fo
 I wrote the command 'findstr "pico" pico_img.png', the command actually searches for the word "pico"
 (a word found in the flag I'm looking for) inside the image.
 After I wrote the command, the flag was printed in the command prompt.
+
 ![](img/key.bmp)
 
 
