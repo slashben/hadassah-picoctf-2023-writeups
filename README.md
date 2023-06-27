@@ -54,6 +54,11 @@ Here is the list of challenges we are solving and the student who solves.
 * [Redaction gone wrong]- yooval yosef
 * [Enhance] Racheli Benchamo
 * [hideme](writeups/Forensics/hideme/) - Avigail Hagay
+* [who is it](writeups/Forensics/whoIsIt/) - Micahel Basov
+* [Packets Primer] - Elad Menahem
+* [Sleuthkit Intro] - Yehuda Heller
+* [so meta] - Moshe Namdar
+* [PcapPoisoning](writeups/Forensics/PcapPoisoning/) - Sari Erentreu
 * [extensions](writeups/Forensics/extentions) - Doron Ben Simon
 
 # For students
