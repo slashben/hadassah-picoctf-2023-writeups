@@ -3,7 +3,7 @@ This is the write-up for the challenge "PcapPoisoning" challenge in PicoCTF
 
 # The challenge
 How about some hide and seek heh?
-Download this file: ![](file/trace.pcap) and find the flag
+Download the file in "file" directory and find the flag
 
 ## Hints
 None
