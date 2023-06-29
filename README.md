@@ -52,7 +52,7 @@ Here is the list of challenges we are solving and the student who solves.
 * [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
 * [what's a net cat?] - Yooval Yosef
 * [Redaction gone wrong]- yooval yosef
-* [Enhance] Racheli Benchamo
+* [Enhance](writeups/Forensics/Enhance!/) Racheli Benchamo
 * [hideme](writeups/Forensics/hideme/) - Avigail Hagay
 * [who is it](writeups/Forensics/whoIsIt/) - Micahel Basov
 * [Packets Primer] - Elad Menahem
