@@ -49,10 +49,10 @@ Here is the list of challenges we are solving and the student who solves.
 ## Forensics 
 
 * [File types] - Idan Cohen
-* [Lookey here](writeups/forensics/Lookey_here/) - Micha Briskman
+* [Lookey here](writeups/Forensics/Lookey_here/) - Micha Briskman
 * [what's a net cat?] - Yooval Yosef
 * [Redaction gone wrong]- yooval yosef
-* [Enhance] Racheli Benchamo
+* [Enhance](writeups/Forensics/Enhance!/) Racheli Benchamo
 * [hideme](writeups/Forensics/hideme/) - Avigail Hagay
 * [who is it](writeups/Forensics/whoIsIt/) - Micahel Basov
 * [Packets Primer] - Elad Menahem
@@ -62,6 +62,8 @@ Here is the list of challenges we are solving and the student who solves.
 * [extensions](writeups/Forensics/extentions) - Doron Ben Simon
 * [Disk, disk, sleuth!] - Pnina yonayov
 * [What Lies Within](writeups/Forensics/WhatLiesWithin) - Roje Habib
+* [Milkslap](writeups/Forensics/Milkslap/) - Abedallah Joulany
+* [What Lies Within](writeups/Forensics/What_Lies_Within) - Shlomo Gulayev
 
 # For students
 
